@@ -1,5 +1,5 @@
 body{
-    background-image: url("images/cover.jpg");
+    background-image: url(images/pexels-photo-747964.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -38,7 +38,7 @@ header .logo ul li {
     background-color: blue;
     color: white;
     height: 60px;
-    width: 250px;
+    width: 200px;
     list-style: none;
     text-align: center;
     line-height: 60px;
@@ -75,5 +75,16 @@ footer p{
     position: absolute;
     left: 45%;
     bottom: 20px;
+}
 
+button{
+    display: inline-block;
+    background-color: white;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+    margin-right: 0px;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
 }
